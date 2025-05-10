@@ -1,7 +1,7 @@
 ---
 title: "关于"
 h1: "关于我"
-desc: "Hi there, I’m Han 👋"
+desc: "Hi there, I’m liulan 👋"
 layout: "@/layouts/PageLayout/PageLayout.astro"
 type: "about"
 ---
@@ -38,7 +38,6 @@ type: "about"
 
 - **边缘计算与全球化部署**，优化分布式应用的性能。
 - **AI 增强开发**，探索 LLM 在代码生成、调试和文档管理中的应用。
-- **智能家居与自动化**，结合 Home Assistant 打造更高效的家庭 lab。
 
 ## Languages and Tools
 
